@@ -9,7 +9,7 @@ INSERT INTO blogs (
 ) VALUES (
     '10 Exercises to Lower Blood Pressure and Improve Heart Health',
     4,
-    'You must have felt your heart pump more when you jog or run. This change is because of the increased blood rushing into your heart, and the heart, in turn, pushes out more blood to provide your muscles. It means your heart is trying to clear how to work efficiently. When your heart is efficient, it dramatically helps manage your blood pressure.',
+    '<p>You must have felt your heart pump more when you jog or run. This change is because of the increased blood rushing into your heart, and the heart, in turn, pushes out more blood to provide your muscles. It means your heart is trying to clear how to work efficiently. When your heart is efficient, it dramatically helps manage your blood pressure.</p>',
     '',
     false,
     '10-exercises-to-lower-blood-pressure-and-improve-heart-health',
